@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Offers</string>
+    <string name="desc">Description:</string>
+    <string name="terms">Terms: </string>
+    <string name="mark_fav">Mark as Favourite</string>
+    <string name="mark_un_fav">Mark as un Favourite</string>
+</resources>
